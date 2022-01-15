@@ -40,10 +40,9 @@ One conclusion observed on the Outcomes Based on Goals line graph is that Kickst
 
 - What are some limitations of this dataset?
 
-  One limitation of this dataset is the existence of outliers. Kickstarter campaigns that have higher fundraising goals are very few and are more likely to fail. These fundraising goals may be unrealistic and this can skew the value of statistics such as the average fundraising goal for successful campaigns. 
-  Another limitation is that this dataset does not include variables accounting for the socioeconomic status (SES) of the citizens in countries in which the Kickstarter campaigns are based. Citizens in countries with lower SES may not have the funds to donate to these campaigns. This can lead to skewed success and failure rates leading to biased interpretations of the data.
+One limitation of this dataset is the existence of outliers. Kickstarter campaigns that have higher fundraising goals are very few and are more likely to fail. These fundraising goals may be unrealistic and this can skew the value of statistics such as the average fundraising goal for successful campaigns. Another limitation is that this dataset does not include variables accounting for the socioeconomic status (SES) of the citizens in countries in which the Kickstarter campaigns are based. Citizens in countries with lower SES may not have the funds to donate to these campaigns. This can lead to skewed success and failure rates leading to biased interpretations of the data.
 
 - What are some other possible tables and/or graphs that we could create?
 
-  A few other possible tables and/or graphs that we could create involve comparisons of different countries to see how theatre Kickstarter campaigns fare internationally. Also, we can look at the rate of success, failure and cancelation depending on factors such as value of average donations and number of supporters. 
+A few other possible tables and/or graphs that we could create involve comparisons of different countries to see how theatre Kickstarter campaigns fare internationally. Also, we can look at the rate of success, failure and cancelation depending on factors such as value of average donations and number of supporters. 
 
