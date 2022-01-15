@@ -13,6 +13,7 @@ The purpose of this analysis is to determine the degree of success Kickstarter c
 First, I created a [pivot table](https://github.com/AkifEltahir96/Kickstarter-Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch_Worksheet.png) to analyze the success of Kickstarter campaigns based on launch date. Through the pivot table, I filtered data by month of Kickstarter campaign launch (Years) and type of Kickstarter campaign (Parent Category). Next, I only included campaigns that were successful, failed, or canceled. I did not include live campaigns because those are currently ongoing. Since Fever is a theater Kickstarter campaign, I filtered the data through type of Kickstarter campagin to only show theater campaigns. This will allow for a more relevant comparison. Finally, I created a line chart to  visualize the relationship between launch month and Kickstarter campaign outcomes. The chart can be viewed here below. 
 
 Outcomes Based on Launch Date: 
+
 ![Theater Outcomes](https://github.com/AkifEltahir96/Kickstarter-Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
@@ -20,6 +21,7 @@ Outcomes Based on Launch Date:
 First, using the COUNTIFS formula, I determined the number and percentage of Kickstarter campaigns that were successful, failed, and canceled depending on their fundraising goals.  Next, I created a line chart to visualize this relationship. The graph depicts the percentage rate of success, failure, and cancellation (Y-axis) with regards to Kickstarter campaign fundraising goals (X-axis). The chart can be viewed here. 
 
 Outcomes Based on Goals:
+
 ![Goals](https://github.com/AkifEltahir96/Kickstarter-Analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
